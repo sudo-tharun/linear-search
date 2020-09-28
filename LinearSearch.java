@@ -1,5 +1,3 @@
-/* From Techprodezza */
-
 /* Algorithm:
 
 Step 1: Input the number of elements in which the number has to be searched.
@@ -32,8 +30,6 @@ class LinearSearch{
         int n;
         int count=0,j;
     try{
-    //    System.out.println("Thank you for the download");
-    //    System.out.println("Team Techprodezza");
         System.out.print("Enter the number of elements in the array: ");
         n=s.nextInt();
         int []arr= new int[n];
